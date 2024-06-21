@@ -1,0 +1,17 @@
+li{
+    margin-bottom: 20px;
+}
+body{
+    background-image: url("Background.jpg");
+    background-size: cover;
+}
+h1{
+    color: white;
+}
+ul{
+    color: white;
+    font-family: "Josefin Slab", serif;
+}
+h2{
+    font-family: "Josefin Slab", serif;
+}
