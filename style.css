@@ -4,7 +4,6 @@ li{
 body{
     background-image: url("Background.jpg");
     background-size: cover;
-    display: inline-block;
     text-align: center;
 }
 h1{
@@ -13,9 +12,11 @@ h1{
 ul{
     color: white;
     font-family: "Josefin Slab", serif;
-    width: 1250px;
+    max-width: 1250px;
     text-align: center;
-    margin: 100px;
+    margin: 30px auto 100px;
+    list-style: none;
+    padding: 0;
 }
 h2{
     font-family: "Josefin Slab", serif;
